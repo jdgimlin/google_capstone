@@ -29,7 +29,7 @@ Programming language and libraries used:
 ![column chart](./rides_by_month.png)
 <br>
 
-See the [notebook](https://github.com/jdgimlin/google_capstone/blob/main/cyclistic_notebook.nb.html) file for all the code and complete analysis.
+See the [notebook](https://nbviewer.jupyter.org/github/jdgimlin/google_capstone/blob/main/cyclistic_notebook.nb.html) file for all the code and complete analysis.
 <br>
 
 ![map_plot](./casual_map.png)
