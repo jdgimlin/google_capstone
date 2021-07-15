@@ -14,3 +14,22 @@ This project involves a fictional bike-share company, Cyclistic. The data used f
 
 >**Objective**    
 Maximize the number of annual subscriptions by turning casual customers into members. The specific goal of this project is to **understand how casual riders and annual members use Cyclistic bikes differently.** 
+<br>
+
+Programming language and libraries used:
+* R
+* tidyverse
+* janitor
+* lubridate
+* geosphere
+* ggmap
+* RColorBrewer
+<br>
+
+![column chart](./rides_by_month.png)
+<br>
+
+See the [notebook](https://github.com/jdgimlin/google_capstone/blob/main/cyclistic_notebook.nb.html) file for all the code and complete analysis.
+<br>
+
+![map_plot](./casual_map.png)
