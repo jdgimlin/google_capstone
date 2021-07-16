@@ -32,4 +32,7 @@ Programming language and libraries used:
 See the [notebook](https://nbviewer.jupyter.org/github/jdgimlin/google_capstone/blob/main/cyclistic_notebook.nb.html) file for all the code and complete analysis.
 <br>
 
+Or view the [presentation](https://github.com/jdgimlin/google_capstone/blob/main/Cyclistic_Presentation.pdf) for an overview and summary analysis.
+<br>
+
 ![map_plot](./casual_map.png)
